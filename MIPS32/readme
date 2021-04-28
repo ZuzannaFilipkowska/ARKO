@@ -1,1 +1,9 @@
 Programy napisane w symulatorze MARS.
+
+Projekt "duży":
+Program przetwarza plik tekstowy zwierający definicje symboli-nazw i inny tekst,
+zawierający zdefiniowane symbole. Definicja rozpoczyna się w pierwszej kolumnie tekstu i
+składa się z nazwy, po której następuje znak dwukropka i ciągu znaków, rozpoczynającego
+się od pierwszego znaku nie będącego odstępem i kończącego ostatnim znakiem nie
+będącym odstępem w wierszu definicji.Program tworzy plik wyjściowy nie zawierający definicji symboli,
+w którym w pozostałym tekście zastąpiono zdefiniowane symbole ich rozwinięciami.
